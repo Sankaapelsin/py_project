@@ -1,8 +1,8 @@
-from funcs import func
+from funcs import minus
 
 
 def main():
-    return func(6, 5)
+    return minus(6, 5)
 
 
 main()
